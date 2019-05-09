@@ -1,2 +1,3 @@
-# BlocSpot
-Bloc Checkpoint work to be reviewed by grading team
+# My Portfolio (Revised 5/6)
+
+A showcase of my work from the program.
